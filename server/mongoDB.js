@@ -1,5 +1,5 @@
 export const MongoDB = {
-    "collection": _mongodb
+    "myCollection": _mongodb
 }
 
 function _mongodb(db){
