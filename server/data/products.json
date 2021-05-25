@@ -1,0 +1,25 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "name":"Style ligth",
+            "category": "Urbain",
+            "picture_url": "https://img.gentside.com/article/1024/look/comment-adopter-le-look-streetwear_88c2d67bd1816d26304428d3e5ee19e809cdb241.jpg",
+            "description": "According to the Chicago Manual of Style, Errata, lists of errors and their corrections, may take the form of loose, inserted sheets or bound-in pages. An errata sheet is definitely not a usual part of a book. It should never be supplied to correct simple typographical errors (which may be rectified in a later printing) or to insert additions to, or revisions of, the printed text (which should wait for the next edition of the book). It is a device to be used only in extreme cases where errors severe enough to cause misunderstanding are detected too late to correct in the normal way but before the finished book is distributed. Then the errors may be listed with their locations and their corrections on a sheet that is tipped in, either before or after the book is bound, or laid in loose, usually inside the front cover of the book. (Tipping and inserting must be done by hand, thus adding considerably to the cost of the book.)"
+        },
+        {
+            "id": 2,
+            "name":"Sweat noire",
+            "category": "Urbain",
+            "picture_url": "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2018/04/19/node_361808/39383811/public/2018/04/19/B9715419905Z.1_20180419160449_000%2BGECB46BOB.1-0.jpg?itok=jW6iy__71524233087",
+            "description": "According to the Chicago Manual of Style, Errata, lists of errors and their corrections, may take the form of loose, inserted sheets or bound-in pages. An errata sheet is definitely not a usual part of a book. It should never be supplied to correct simple typographical errors (which may be rectified in a later printing) or to insert additions to, or revisions of, the printed text (which should wait for the next edition of the book). It is a device to be used only in extreme cases where errors severe enough to cause misunderstanding are detected too late to correct in the normal way but before the finished book is distributed. Then the errors may be listed with their locations and their corrections on a sheet that is tipped in, either before or after the book is bound, or laid in loose, usually inside the front cover of the book. (Tipping and inserting must be done by hand, thus adding considerably to the cost of the book.)"
+        },
+        {
+            "id": 3,
+            "name":"Sweat blanc et rouge",
+            "category": "Urbain",
+            "picture_url": "https://www.commeuncamion.com/content/uploads/2019/01/akin.jpg",
+            "description": "According to the Chicago Manual of Style, Errata, lists of errors and their corrections, may take the form of loose, inserted sheets or bound-in pages. An errata sheet is definitely not a usual part of a book. It should never be supplied to correct simple typographical errors (which may be rectified in a later printing) or to insert additions to, or revisions of, the printed text (which should wait for the next edition of the book). It is a device to be used only in extreme cases where errors severe enough to cause misunderstanding are detected too late to correct in the normal way but before the finished book is distributed. Then the errors may be listed with their locations and their corrections on a sheet that is tipped in, either before or after the book is bound, or laid in loose, usually inside the front cover of the book. (Tipping and inserting must be done by hand, thus adding considerably to the cost of the book.)"
+        }
+    ]
+}
