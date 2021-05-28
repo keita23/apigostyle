@@ -1,7 +1,8 @@
 import { MongoDB } from './mongoDB'
 
 // my databases
-const products = MongoDB.myCollection('products');
+//const products = MongoDB.myCollection('products'); //in mongodb
+const products = require("./data/products.json");
 
 export const Utils = {
     "getParamsAll": _getParamsAll,
@@ -16,12 +17,14 @@ function _getParamsAll(path) {
 }
 
 function _getAllProducts(){
-    return products.findOne({}); 
+    //return products.findOne({}); //in mongodb
+    return products;
 }
 
 function _getSingleProduct(id){
     let items = [];
-    let arrayResult =  products.findOne({});
+    //let arrayResult =  products.findOne({}); //in mongodb
+    let arrayResult = products;
 
     items[0] = arrayResult.items.find((product)=>{
             return product.id === id;
