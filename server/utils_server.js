@@ -32,7 +32,7 @@ function _getSingleProduct(id){
 
     // on construire la réponse de sorte à récupérer les informations du côté de l'application
     
-    items = items[0]? items[0] : [];
+    items = items[0]? items[0] : null;
     return  {
                 "items": [
                     items
